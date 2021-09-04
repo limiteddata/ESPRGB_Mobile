@@ -1,9 +1,9 @@
 # ESPRGB_Mobile
 
-This is a mobile client to control all your ESPRGB devices.
+This is a mobile client to control all your ESPRGB devices built with React Native.
 With it you can initialize devices, search and control them.
 
-[Google Play](https://www.google.com)
+[Google Play](https://play.google.com/store/apps/details?id=com.esprgb_mobile)
 
 # Preview
 
